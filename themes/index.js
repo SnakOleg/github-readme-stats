@@ -463,10 +463,12 @@ export const themes = {
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
   whatsapp_dark2: {
-  title_color: "21C063",
-  text_color: "21C063",
-  icon_color: "ffffff",
-  bg_color: "0B141B",
+    bg_color: "0B141B",
+    title_color: "F7F8FA",
+    text_color: "F7F8FA",
+    icon_color: "858A8D",
+    border_color: "103629",
+    ring_color: "858A8D",
   },
 };
 
